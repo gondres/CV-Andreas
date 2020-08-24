@@ -1,0 +1,145 @@
+body{
+    background-color:#222831;
+    margin: 0px;
+    color:#eeeeee;
+    text-align: center;
+    font-family: sans-serif;
+}
+#attribute{
+    position: absolute;
+    left: 400px;
+    top: 150px;
+}
+.title{
+    font-size:4rem;
+    font-weight: bold;
+    font-family:"Caveat",cursive;
+    display: block;
+}
+h2{
+    color: #00adb5;
+}
+
+p{
+    line-height: 1,5;
+}
+a{
+    text-decoration: none;
+}
+.btn{
+    background-color:#00adb5 ;
+    color:#eeeeee;
+    padding: 12px 30px;
+    border-radius: 5px;
+    margin-top: 5px;
+    display:inline-block
+}
+/*Section Pertama*/
+.intro{
+    text-align: left;
+}
+.foto-profile{
+    float: right;
+    border-radius: 100%;
+    margin-left: 30px;
+}
+/*Section Kedua*/
+.section{
+    margin-bottom: 200px;
+}
+/*Gambar Ui/UX*/
+.ux-skill-img{
+    float: left;
+    position: relative;
+    right: 0px;
+  
+}
+.bisa{
+    position: relative;
+    bottom: 40px;
+}
+.uix{
+    position: relative;
+    text-align:left;
+    left: 26px;
+}
+.ui{
+    text-align: left;
+    position: relative;
+    left: 30px;
+}
+
+/*Gambar FrontEnd*/
+.web-skill-img{
+    float: right;
+}
+.skill-front{
+    position: relative;
+    top: 100px;
+}
+.front{
+    position: relative;
+    right: 50px;
+    text-align: right;
+    bottom: 5px;
+    display: inline-block;
+}
+.frontwords{
+    position: relative;
+    text-align: left;
+}
+/*end of frontend*/
+
+/*FOOTER*/
+.footer{
+    background-color: #393e46;
+    height: 100px;
+    position: relative;
+    bottom: 10px;
+}
+.instagram{
+    position: relative;
+    left: 0px;
+    top: 20px;
+    color: #00adb5;
+    font-size: 12pt;
+}
+.facebook{
+    position: relative;
+    top: 20px;
+    left: 20px;
+    color: #00adb5;
+    font-size: 12pt;
+}
+.linkedin{
+    position: relative;
+    top: 20px;
+    left: 40px;
+    color: #00adb5;
+    font-size: 12pt;
+}
+.cta-text{
+    position: relative;
+    top: 20px;
+    text-align: center;
+}
+.footer-text{
+    position: relative;
+    top: 25px;
+}
+.icon{
+    color: #00adb5;
+}
+.btnbawah{
+    background-color:#00adb5 ;
+    color:#eeeeee;
+    border-radius: 5px;
+    margin-top: 30px;
+    display:inline-block
+}
+/*end of footer*/
+.wrapper {
+    width: 720px;
+    margin: 0 auto;
+    padding-top:225px;
+}
